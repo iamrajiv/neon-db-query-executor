@@ -51,6 +51,7 @@ The folder structure of the project is as follows:
 
 ```shell
 .
+├── .env
 ├── LICENSE
 ├── README.md
 ├── assets
