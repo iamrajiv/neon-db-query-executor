@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/neon-db-query-executor.svg" height="auto" width="400" />
+<img src="https://neon.tech/_next/static/chunks/src/images/logo-black.4cffa5b1beb857a5.svg" height="auto" width="400" />
 <br />
 <h1>Neon DB Query Executor</h1>
 <p>
